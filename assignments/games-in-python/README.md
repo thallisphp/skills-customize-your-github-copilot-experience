@@ -1,10 +1,10 @@
 # 📘 Assignment: Jogos em Python — Hangman
 
-## 🎯 Objective:
+## 🎯 Objetivos
 
 Neste exercício o estudante vai construir o clássico jogo da forca (Hangman) usando strings, laços e entrada do usuário em Python. O foco é praticar manipulação de strings, condicionais e lógica de jogo.
 
-## 📝 Tasks
+## 📝 Tarefas
 
 ### 🛠️ Criar o jogo Hangman
 
